@@ -1,6 +1,6 @@
 package com.luv2code.springdemo;
 
-public class BaseballCoach implements com.luv2code.springdemo.Coach {
+public class BaseballCoach implements Coach {
 
 	// define a private field for the dependency
 	private FortuneService fortuneService;

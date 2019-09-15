@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2960b40f-1eee-43e6-af0f-313879dbe1d5" name="Default Changelist" comment="" />
+    <list default="true" id="2960b40f-1eee-43e6-af0f-313879dbe1d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/BeanScopeDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/BeanScopeDemoApp.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QpNnzfWt7ZmbExju8LBnfPd9b6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
@@ -42,7 +52,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SetterDemoApp">
+  <component name="RunManager" selected="Application.BeanScopeDemoApp">
+    <configuration name="BeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.BeanScopeDemoApp" />
+      <module name="spring-factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.HelloSpringApp" />
       <module name="spring-factory" />
@@ -71,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeanScopeDemoApp" />
         <item itemvalue="Application.SetterDemoApp" />
         <item itemvalue="Application.HelloSpringApp" />
       </list>
@@ -86,11 +110,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568463748437</updated>
-      <workItem from="1568463749644" duration="9152000" />
+      <workItem from="1568463749644" duration="10143000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
