@@ -1,5 +1,7 @@
 package com.luv2code.springdemo;
 
+import com.luv2code.springDemoAnnotations.Coach;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class SetterDemoApp {
@@ -25,6 +27,22 @@ public class SetterDemoApp {
 		context.close();
 	}
 
+    public static class JavaConfigDemoApp {
+        public static void main(String[] args) {
+            //Read spring config file
+            AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext("beanAnnotation-applicationContext.xml");
+
+            //Get the bean from spring container
+    //        Coach theCoach = context.getBean("thatSillyCoach",Coach.class);
+            com.luv2code.springDemoAnnotations.Coach theCoach = context.getBean("tennisCoach", Coach.class);
+
+            //Call a method on the bean
+            System.out.println(theCoach.getDailyWorkout());
+
+            //Close the context
+            context.close();
+        }
+    }
 }
 
 

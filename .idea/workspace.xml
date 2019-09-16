@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2960b40f-1eee-43e6-af0f-313879dbe1d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/AnnotationDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/AnnotationDemoApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/TennisCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/JavaConfigDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SportConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springdemo/SetterDemoApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springdemo/SetterDemoApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/SetterDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/SetterDemoApp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +76,7 @@
       <module name="spring-factory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="PATTERN" value="com.luv2code.springDemoAnnotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,7 +89,7 @@
       <module name="spring-factory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="PATTERN" value="com.luv2code.springDemoAnnotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloSpringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.HelloSpringApp" />
+    <configuration name="JavaConfigDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springDemoAnnotations.JavaConfigDemoApp" />
       <module name="spring-factory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="PATTERN" value="com.luv2code.springDemoAnnotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,7 +115,7 @@
       <module name="spring-factory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.luv2code.springdemo.*" />
+          <option name="PATTERN" value="com.luv2code.springDemoAnnotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,10 +126,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.AnnotationDemoApp" />
+        <item itemvalue="Application.JavaConfigDemoApp" />
         <item itemvalue="Application.BeanLifecycleDemoApp" />
         <item itemvalue="Application.BeanScopeDemoApp" />
         <item itemvalue="Application.SetterDemoApp" />
-        <item itemvalue="Application.HelloSpringApp" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +143,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568463748437</updated>
-      <workItem from="1568463749644" duration="13682000" />
+      <workItem from="1568463749644" duration="14937000" />
     </task>
     <servers />
   </component>
