@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2960b40f-1eee-43e6-af0f-313879dbe1d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/beanAnnotation-applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/AnnotationDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/TennisCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/AnnotationDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/AnnotationDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/TennisCoach.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +140,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568463748437</updated>
-      <workItem from="1568463749644" duration="13342000" />
+      <workItem from="1568463749644" duration="13682000" />
     </task>
     <servers />
   </component>
