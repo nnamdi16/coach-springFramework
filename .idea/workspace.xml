@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2960b40f-1eee-43e6-af0f-313879dbe1d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SadFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SwimCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SwimJavaConfigDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newSport.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/Coach.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/SportConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/SportConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/TennisCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/TennisCoach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/Coach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SportConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SportConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/TennisCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SwimCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SwimCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SwimJavaConfigDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SwimJavaConfigDemoApp.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,8 +131,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.SwimJavaConfigDemoApp" />
-        <item itemvalue="Application.AnnotationDemoApp" />
         <item itemvalue="Application.JavaConfigDemoApp" />
+        <item itemvalue="Application.AnnotationDemoApp" />
         <item itemvalue="Application.BeanLifecycleDemoApp" />
         <item itemvalue="Application.BeanScopeDemoApp" />
       </list>
@@ -153,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568463748437</updated>
-      <workItem from="1568463749644" duration="17140000" />
+      <workItem from="1568463749644" duration="18874000" />
     </task>
     <servers />
   </component>

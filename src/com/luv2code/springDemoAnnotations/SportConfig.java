@@ -3,9 +3,13 @@ package com.luv2code.springDemoAnnotations;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.PropertySource;
 
+//Configuring spring container using java code
 @Configuration
-@ComponentScan("com.luv2code.springDemoAnnotations")
+//@ComponentScan("com.luv2code.springDemoAnnotations")
+//Load properties file
+@PropertySource("classpath:newSport.properties")
 public class SportConfig {
 
     //Define bean for our sad fortune service
