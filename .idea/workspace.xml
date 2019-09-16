@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2960b40f-1eee-43e6-af0f-313879dbe1d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/JavaConfigDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SportConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SadFortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SwimCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SwimJavaConfigDemoApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springdemo/SetterDemoApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springdemo/SetterDemoApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springdemo/SetterDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springdemo/SetterDemoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/Coach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/Coach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/SportConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/SportConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/TennisCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-factory/com/luv2code/springDemoAnnotations/TennisCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SportConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/SportConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/luv2code/springDemoAnnotations/TennisCoach.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +25,7 @@
       <list>
         <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -26,8 +33,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QpNnzfWt7ZmbExju8LBnfPd9b6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -57,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnnotationDemoApp">
+  <component name="RunManager" selected="Application.SwimJavaConfigDemoApp">
     <configuration name="AnnotationDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.luv2code.springDemoAnnotations.AnnotationDemoApp" />
       <module name="spring-factory" />
@@ -110,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetterDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.luv2code.springdemo.SetterDemoApp" />
+    <configuration name="SwimJavaConfigDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.springDemoAnnotations.SwimJavaConfigDemoApp" />
       <module name="spring-factory" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwimJavaConfigDemoApp" />
         <item itemvalue="Application.AnnotationDemoApp" />
         <item itemvalue="Application.JavaConfigDemoApp" />
         <item itemvalue="Application.BeanLifecycleDemoApp" />
         <item itemvalue="Application.BeanScopeDemoApp" />
-        <item itemvalue="Application.SetterDemoApp" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +153,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568463748437</updated>
-      <workItem from="1568463749644" duration="14937000" />
+      <workItem from="1568463749644" duration="17140000" />
     </task>
     <servers />
   </component>
@@ -160,5 +170,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
